@@ -1,0 +1,7 @@
+flowers
+rose
+hibiscus
+marigold
+lotus
+jasmin
+
